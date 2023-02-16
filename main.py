@@ -184,7 +184,7 @@ save.place(x=1020, y=555)
 journal = ttk.Label(root, text='Journal', font= ('Helvetica 30 bold italic'), background='light blue')
 journal.place(x=980, y=70)
 
-fitness_1 = quest('Run 10km', 'fitness', 50, 11, 0, '#879FFF')
+fitness_1 = quest('Run 10km', 'fitness', 50, 11, 0, 'blue')
 fitness_2 = quest('10 Push-ups', 'fitness', 5, 13, 0, '#879FFF')
 fitness_3 = quest('10 sit-ups', 'fitness', 5, 13, 0, '#879FFF')
 social_1 = quest('Talk to someone new', 'social', 80, 11, 2, '#FF7777')
